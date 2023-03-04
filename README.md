@@ -5,9 +5,9 @@
 <p align="center">
     Welcome to my Github Profile.
 <p align="center">  
- <img src="https://komarev.com/ghpvc/?username=cxnvicted&color=151515">
+ <img src="https://komarev.com/ghpvc/?username=v2m8&color=151515">
     <p align="center">
-  <img src="https://api.discord-status.me/1040702381337362594?gradient=%23000000%2C%20%23000000)"/>
+  <img src="https://discord.dog/1040702381337362594"/>
 </p>
 <p align="center">
 
