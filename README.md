@@ -7,7 +7,7 @@
 <p align="center">  
  <img src="https://komarev.com/ghpvc/?username=v2m8&color=151515">
     <p align="center">
-  <img src="https://discord.dog/1040702381337362594"/>
+     i <3 my girl
 </p>
 <p align="center">
 
